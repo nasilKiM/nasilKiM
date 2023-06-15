@@ -19,7 +19,13 @@
 
 <h2> 🐲 My Projects </h2>
 
+<div>중고거래 플랫폼, 줍줍마켓</div>
 
+<br>
+
+<div>깃이슈</div>
+
+<br>
 
 <h2> 📚 My tech stack </h2>
 
