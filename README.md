@@ -1,7 +1,6 @@
 <div>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Nasil's%20Github!&fontSize=90" />	
 </div>
-###Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 <h1>Welcome to My GitHub!</h1>
 
