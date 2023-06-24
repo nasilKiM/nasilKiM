@@ -18,11 +18,16 @@
 
 <h2> 🐲 My Projects </h2>
 
-<div>중고거래 플랫폼, 줍줍마켓</div>
+<h4>중고거래 플랫폼, 줍줍마켓</h4>
+https://github.com/nasilKiM/ZoopzoopMarket.git
 
 <br>
+<h4>영화트레일러 조회사이트, Movie찾냥</h4>
+https://github.com/nasilKiM/React_Movie_Trailer_project.git
+<br>
 
-<div>깃이슈</div>
+<h4>Git Issue 를 조회하는 웹사이트</h4>
+https://github.com/nasilKiM/React_project1.git
 
 <br>
 
