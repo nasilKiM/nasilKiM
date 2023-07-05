@@ -23,11 +23,11 @@ https://github.com/nasilKiM/ZoopzoopMarket.git
 
 <br>
 <h4>영화트레일러 조회사이트, Movie찾냥</h4>
-https://github.com/nasilKiM/React_Movie_Trailer_project.git
+https://github.com/nasilKiM/React_MovieTrailer.git
 <br>
 
-<h4>Git Issue 를 조회하는 웹사이트</h4>
-https://github.com/nasilKiM/React_project1.git
+<h4>Search 페이지_검색 키워드 최적화 웹사이트</h4>
+https://github.com/Frontend-TEAM1/Search.git
 
 <br>
 
