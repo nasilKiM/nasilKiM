@@ -19,11 +19,11 @@
 <h2> 🐲 My Projects </h2>
 
 <h4>중고거래 플랫폼, 줍줍마켓</h4>
-https://github.com/nasilKiM/ZoopzoopMarket.git
+https://github.com/nasilKiM/React_ZoopZoopMarket
 
 <br>
 <h4>영화트레일러 조회사이트, Movie찾냥</h4>
-https://github.com/nasilKiM/React_MovieTrailer.git
+https://github.com/nasilKiM/React_MovieTrailer
 <br>
 
 <h4>Search 페이지_검색 키워드 최적화 웹사이트</h4>
