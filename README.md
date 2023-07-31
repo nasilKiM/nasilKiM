@@ -8,7 +8,7 @@
 
 - 😎I'm a Frontend Developer Interested in Web, app, and Design.
 - 🌏 I'm from Seoul, South Korea.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React, Typescript and NextJS 
 - 🚀 I'm interested in the latest development trends.
 - 📫 How to reach me: nasikun@naver.com
 - 😄 Fun facts: I have six years of experience in other fields. 😊
