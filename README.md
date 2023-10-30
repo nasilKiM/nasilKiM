@@ -17,19 +17,20 @@
 
 ## 🐲 My Projects 
 
+### 반려동물 입양&봉사 플랫폼, Banuddy
+#### (깃허브) https://github.com/nasilKiM/mobi-banuddy
+
+<br>
+
 ### 중고거래 플랫폼, 줍줍마켓
 #### (배포) https://zoopzoop-market.vercel.app/
 #### (깃허브) https://github.com/nasilKiM/React_ZoopZoopMarket
+
 <br>
 
 ### 영화 조회사이트, Movie cat-cha!
 #### (배포) https://movie-catcha.vercel.app
 #### (깃허브) https://github.com/nasilKiM/React_MovieTrailer
-
-<br>
-
-### Search 페이지_(검색 키워드 최적화 웹사이트)
-#### https://github.com/Frontend-TEAM1/Search.git
 
 <br>
 
