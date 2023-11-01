@@ -6,7 +6,7 @@
 
 <br/>
 
-##  📚 My tech stack 
+##  💙 My tech stack 
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1D?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=React&logoColor=#5bccea"/></a>
@@ -15,20 +15,20 @@
 
 <br/>
 
-## 🐲 My Projects 
+## ❤️ My Projects 
 
-### 반려동물 입양&봉사 플랫폼, Banuddy
+### 🐶반려동물 입양&봉사 플랫폼, Banuddy
 #### (깃허브) https://github.com/nasilKiM/mobi-banuddy
 
 <br>
 
-### 중고거래 플랫폼, 줍줍마켓
+### 🎁중고거래 플랫폼, 줍줍마켓
 #### (배포) https://zoopzoop-market.vercel.app/
 #### (깃허브) https://github.com/nasilKiM/React_ZoopZoopMarket
 
 <br>
 
-### 영화 조회사이트, Movie cat-cha!
+### 🍿영화 조회사이트, Movie cat-cha!
 #### (배포) https://movie-catcha.vercel.app
 #### (깃허브) https://github.com/nasilKiM/React_MovieTrailer
 
