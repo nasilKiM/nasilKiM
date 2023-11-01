@@ -18,6 +18,7 @@
 ## ❤️ My Projects 
 
 ### 🐶반려동물 입양&봉사 플랫폼, Banuddy
+#### (배포) https://banuddy-project-vlup.vercel.app/
 #### (깃허브) https://github.com/nasilKiM/mobi-banuddy
 
 <br>
