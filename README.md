@@ -19,7 +19,6 @@
 </div>
 
 <br/>
-
 ## My Projects 
 
 
@@ -28,7 +27,7 @@
 | <img src="https://github.com/nasilKiM/nasilKiM/assets/117559842/2988cc8b-207e-40e9-a0d7-4ab93b789549" width="200" style="display: block; margin: 0 auto;"> | <img src="https://github.com/nasilKiM/nasilKiM/assets/117559842/6afc5014-3830-430f-a5ee-7f65ee110f50" width="200" style="display: block; margin: 0 auto;"> | <img src="https://github.com/nasilKiM/nasilKiM/assets/117559842/3ed5467c-e7ec-48d9-b4f8-d03e6a034815" width="150" style="display: block; margin: 0 auto;"> | <img src="https://github.com/nasilKiM/nasilKiM/assets/117559842/e9c433db-4f30-4909-bed4-cdf1f4b3c653" width="200" style="display: block; margin: 0 auto;"> |
 | 여행 계획 및 기록 공유 플랫폼 | 반려동물 입양&봉사 플랫폼    | 중고 거래 및 무료나눔 커머스 플랫폼     | 영화 및 트레일러 조회 사이트     |
 | 진행중 | [배포 링크](https://banuddy-project-vlup.vercel.app/)    | [배포 링크](https://zoopzoop-market.vercel.app/)     | [배포 링크](https://movie-catcha.vercel.app)     |
-| [깃허브 링크](https://github.com/mobi-community/mobi-1th-tramory) | [깃허브 링크](https://github.com/nasilKiM/mobi-banuddy) | [깃허브 링크](https://github.com/nasilKiM/React_ZoopZoopMarket) | [깃허브 링크](https://github.com/nasilKiM/React_MovieTrailer) |
+| [깃허브 링크](https://github.com/mobi-community/mobi-1th-tramory) | [깃허브 링크](https://github.com/nasilKiM/Banuddy-project) | [깃허브 링크](https://github.com/nasilKiM/React_ZoopZoopMarket) | [깃허브 링크](https://github.com/nasilKiM/React_MovieTrailer) |
 
 <br/>
 
